@@ -1,3 +1,0 @@
-Invoking command in '/home/henridvl/2dev_ws/src/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/henridvl/2dev_ws/src/serial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/henridvl/2dev_ws/src/install/serial
-Invoked command in '/home/henridvl/2dev_ws/src/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/henridvl/2dev_ws/src/serial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/henridvl/2dev_ws/src/install/serial
-Invoking command in '/home/henridvl/2dev_ws/src/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/henridvl/2dev_ws/src/build/serial -- -j16 -l16

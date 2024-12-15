@@ -1,1 +1,0 @@
-/home/henridvl/2dev_ws/src/build/articubot_one/ament_cmake_core/articubot_oneConfig.cmake
